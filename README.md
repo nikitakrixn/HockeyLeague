@@ -16,7 +16,7 @@
 	Имя входа: Manager_games; Пароль: 123456 – роль Manager_games;
 
 ## Скриншоты
-![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/tree/master/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/1.PNG)
+![ScreenShot](1.PNG)
 ![ScreenShot](https://github.com/nikitakrixn/Financial-report/blob/master/screenshot/123456.PNG)
 ![ScreenShot](https://github.com/nikitakrixn/Financial-report/blob/master/screenshot/1234567.PNG)
 ![ScreenShot](https://github.com/nikitakrixn/Financial-report/blob/master/screenshot/12345678.PNG)
