@@ -16,10 +16,10 @@
 	Имя входа: Manager_games; Пароль: 123456 – роль Manager_games;
 
 ## Скриншоты
-![Screenshot](https://github.com/nikitakrixn/HockeyLeague/tree/master/screenshots/1.PNG)
-![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/tree/master/screenshots/2.PNG)
-![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/tree/master/screenshots/3.PNG)
-![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/tree/master/screenshots/4.PNG)
+![Screenshot](https://github.com/nikitakrixn/HockeyLeague/screenshots/1.PNG)
+![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/screenshots/2.PNG)
+![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/screenshots/3.PNG)
+![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/screenshots/4.PNG)
 ![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/tree/master/screenshots/5.PNG)
 ![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/tree/master/screenshots/6.PNG)
 ![ScreenShot](https://github.com/nikitakrixn/HockeyLeague/tree/master/screenshots/7.PNG)
